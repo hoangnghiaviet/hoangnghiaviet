@@ -12,5 +12,4 @@ Skills: C++ / Python / Java / JS / HTML / CSS / React JS
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=hoangnghiaviet&show_icons=true&count_private=true)  
 
-![GitHub metrics](https://metrics.lecoq.io/hoangnghiaviet)  
 
