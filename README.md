@@ -14,4 +14,3 @@ Skills: C++ / Python / Java / JS / HTML / CSS / React JS
 
 ![GitHub metrics](https://metrics.lecoq.io/hoangnghiaviet)  
 
-![Profile views](https://gpvc.arturio.dev/hoangnghiaviet)  
