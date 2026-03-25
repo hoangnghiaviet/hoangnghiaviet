@@ -2,7 +2,7 @@
 #### Welcome to my GitHub profile
 I am currently studying Bachelor of Computer Science at Ho Chi Minh University of Science. I have a huge passion with programming language, especially C++. 
 
-Skills: C++ / Python / Java / JS / HTML / CSS / React JS
+Skills: C++ / CUDA / Python / Java / Rust
 
 
 
